@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+    height: 640px;
+    width: 400px;
+    margin: auto;
+}
+.title{
+    height: 60px;
+    width: 400px;
+    
+}
+.title i{
+    float: right;
+    height: 60px;
+    width: 30px;
+    padding-inline-end: 5px;
+    padding-top: 5px;
+}
+.logo{
+    height: 60px;
+    width: 150px;
+    float: left;
+}
+.logo i{
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-left: 5px;
+    padding-top: 5px;
+}
+#name h3{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+#name p{
+    margin-top: 5px;
+}
+.imagen{
+    width: 400px;
+    height: 410px;
+    
+}
+img{
+    width: 400px;
+    height: 400px;
+    
+}
+.reaccion{
+    height: 40px;
+    margin: 2px;
+}
+.reaccion i{
+    float: left;
+    padding-left: 5px;
+}
+.reaccion i:nth-child(4){
+    float: right;
+    padding-right: 5px;
+}
